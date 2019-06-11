@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biz01/biz01.iml" filepath="$PROJECT_DIR$/biz01/biz01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz02/biz02.iml" filepath="$PROJECT_DIR$/biz02/biz02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
+    </modules>
+  </component>
+</project>
